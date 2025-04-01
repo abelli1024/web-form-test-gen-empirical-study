@@ -1,0 +1,11 @@
+GPT-3.5 1
+GPT-4 2
+GLM-3 3
+GLM-4 4
+GLM-4V 5
+Baichuan2 6
+LLaMa2(7B) 7
+LLaMa2(13B) 8
+LLaMa2(70B) 9
+Spark-3 10
+Spark-3.5 11
